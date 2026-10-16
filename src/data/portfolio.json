@@ -1,0 +1,47 @@
+{
+  "name": "유소윤",
+  "englishName": "Yu So Yoon",
+  "intro": "안녕하세요, 유소윤입니다.\n저의 경험과 작업을 이곳에 기록합니다.",
+  "bio": "작은 생각이 하나의 결과물이 되기까지.\n제가 걸어온 길과 만들어온 작업을 소개합니다.",
+  "phone": "",
+  "email": "",
+  "school": "",
+  "major": "",
+  "photo": "",
+  "skills": [],
+  "careers": [],
+  "works": [
+    {
+      "title": "Identity exploration",
+      "category": "Branding",
+      "year": "DEMO",
+      "description": "갤러리 구성 확인을 위한 예시입니다. 실제 작업물로 교체해 주세요.",
+      "image": "",
+      "demo": true
+    },
+    {
+      "title": "A different perspective",
+      "category": "Editorial",
+      "year": "DEMO",
+      "description": "갤러리 구성 확인을 위한 예시입니다. 실제 작업물로 교체해 주세요.",
+      "image": "",
+      "demo": true
+    },
+    {
+      "title": "Digital moments",
+      "category": "Digital",
+      "year": "DEMO",
+      "description": "갤러리 구성 확인을 위한 예시입니다. 실제 작업물로 교체해 주세요.",
+      "image": "",
+      "demo": true
+    },
+    {
+      "title": "Objects & stories",
+      "category": "Personal",
+      "year": "DEMO",
+      "description": "갤러리 구성 확인을 위한 예시입니다. 실제 작업물로 교체해 주세요.",
+      "image": "",
+      "demo": true
+    }
+  ]
+}
